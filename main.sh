@@ -41,7 +41,7 @@ animate_logo
 # -------------------------
 # ACTUAL URLS (Deobfuscated)
 # -------------------------
-github_url="https://vpsmaker.jishnumondal32.workers.dev"
+github_url="https://raw.githubusercontent.com/JoyelTheDev/VM/refs/heads/main/worker.sh"
 google_url="https://rough-hall-1486.jishnumondal32.workers.dev"
 
 # -------------------------
